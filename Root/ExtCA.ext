@@ -1,0 +1,2 @@
+basicConstraints = CA:true
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, keyCertSign, cRLSign
